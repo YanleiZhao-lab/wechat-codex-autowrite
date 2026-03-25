@@ -1,0 +1,12 @@
+{
+  "topic": "AI Agent 自动写文章工作流",
+  "raw_input": "../samples/output/raw",
+  "normalized_dir": "../samples/output/normalized",
+  "processed_dir": "../samples/output/processed",
+  "bundle_output": "../samples/output/bundle.md",
+  "article_output": "../samples/output/final_article.md",
+  "check_output": "../samples/output/final_check.md",
+  "audience": "关注 AI 自动化的中文读者",
+  "style": "实战导向，少空话",
+  "length": 1800
+}

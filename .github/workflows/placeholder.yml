@@ -1,0 +1,10 @@
+name: placeholder
+
+on:
+  workflow_dispatch:
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Add real CI when runtime execution environment is available"

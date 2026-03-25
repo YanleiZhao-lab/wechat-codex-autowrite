@@ -1,0 +1,11 @@
+{
+  "topic": "用 OpenClaw + Codex 自动写公众号文章",
+  "refs": "../samples/refs",
+  "audience": "关注 AI 自动化与内容生产的中文读者",
+  "style": "实战导向，信息密度高，少空话",
+  "length": 1800,
+  "mode": "full",
+  "output": "../samples/output/example_job_article.md",
+  "check_output": "../samples/output/example_job_check.md",
+  "save_prompt_dir": "../samples/output/example_job_prompts"
+}

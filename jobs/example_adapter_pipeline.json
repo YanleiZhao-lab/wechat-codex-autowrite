@@ -1,0 +1,13 @@
+{
+  "topic": "OpenClaw 自动化写公众号",
+  "urls_input": "./example_wechat_urls.txt",
+  "raw_dir": "../samples/output/raw-wechat",
+  "normalized_dir": "../samples/output/normalized-wechat",
+  "processed_dir": "../samples/output/processed-wechat",
+  "bundle_output": "../samples/output/bundle-wechat.md",
+  "article_output": "../samples/output/final-wechat-article.md",
+  "check_output": "../samples/output/final-wechat-check.md",
+  "audience": "想做 AI 自动化内容生产的中文读者",
+  "style": "教程向，实操导向，少空话",
+  "length": 1800
+}

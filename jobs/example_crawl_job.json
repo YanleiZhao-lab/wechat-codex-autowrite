@@ -1,0 +1,9 @@
+{
+  "topic": "AI Agent 自动写文章工作流",
+  "urls": [
+    "https://example.com/article-1",
+    "https://example.com/article-2"
+  ],
+  "raw_dir": "../samples/output/raw",
+  "normalized_dir": "../samples/output/normalized"
+}
